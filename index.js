@@ -116,7 +116,7 @@ const adicionarParticipante = (event) => {
     dataChekIn: null
   }
 
-  const participanteExiste = participante.find(
+  const participanteExiste = participantes.find(
     (p) =>  p.email == participante.email
   )
 
