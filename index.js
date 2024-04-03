@@ -1,62 +1,62 @@
 let participantes = [
   {
-    nome: 'Luan Henrique',
-    email: 'luanhenriquehdia@gmail.com',
-    dataInscricao: new Date(2024, 2, 01, 19, 20),
+    nome: 'Luan',
+    email: 'luan@gmail.com',
+    dataInscricao: new Date(2024, 2, 0o1, 19, 20),
     dataChekIn: null
   },
   {
-    nome: 'teste',
-    email: 'teste@gmail.com',
-    dataInscricao: new Date(2024, 3, 01, 19, 20),
-    dataChekIn: new Date(2024, 2, 25, 22, 00)
+    nome: 'Julio',
+    email: 'julio@gmail.com',
+    dataInscricao: new Date(2024, 3, 0o1, 19, 20),
+    dataChekIn: new Date(2024, 2, 25, 22, 0o0)
   },
   {
     nome: 'João',
     email: 'joao@gmail.com',
-    dataInscricao: new Date(2024, 3, 02, 10, 30),
+    dataInscricao: new Date(2024, 3, 0o2, 10, 30),
     dataChekIn: new Date(2024, 2, 26, 12, 15)
   },
   {
     nome: 'Maria',
     email: 'maria@gmail.com',
-    dataInscricao: new Date(2024, 3, 02, 11, 45),
+    dataInscricao: new Date(2024, 3, 0o2, 11, 45),
     dataChekIn: new Date(2024, 2, 26, 10, 20)
   },
   {
     nome: 'Pedro',
     email: 'pedro@gmail.com',
-    dataInscricao: new Date(2024, 3, 03, 14, 10),
+    dataInscricao: new Date(2024, 3, 0o3, 14, 10),
     dataChekIn: null
   },
   {
     nome: 'Ana',
     email: 'ana@gmail.com',
-    dataInscricao: new Date(2024, 3, 03, 16, 20),
+    dataInscricao: new Date(2024, 3, 0o3, 16, 20),
     dataChekIn: new Date(2024, 2, 27, 15, 45)
   },
   {
     nome: 'Carlos',
     email: 'carlos@gmail.com',
-    dataInscricao: new Date(2024, 3, 04, 18, 55),
+    dataInscricao: new Date(2024, 3, 0o4, 18, 55),
     dataChekIn: new Date(2024, 2, 28, 19, 10)
   },
   {
     nome: 'Mariana',
     email: 'mariana@gmail.com',
-    dataInscricao: new Date(2024, 3, 04, 20, 15),
+    dataInscricao: new Date(2024, 3, 0o4, 20, 15),
     dataChekIn: new Date(2024, 2, 28, 18, 30)
   },
   {
     nome: 'Lucas',
     email: 'lucas@gmail.com',
-    dataInscricao: new Date(2024, 3, 05, 22, 30),
+    dataInscricao: new Date(2024, 3, 0o5, 22, 30),
     dataChekIn: null
   },
   {
     nome: 'Juliana',
     email: 'juliana@gmail.com',
-    dataInscricao: new Date(2024, 3, 05, 23, 45),
+    dataInscricao: new Date(2024, 3, 0o5, 23, 45),
     dataChekIn: null
   }
 ];
